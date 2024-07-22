@@ -22,7 +22,7 @@ Here's a breakdown of how the program works:
   
     NOTICE: These channels are not real and were completely made up for the sake of this project. Additionally, these channels do not belong to a specific television or media operator.
 
-2. As soon as the user enters their desired channel number, a small and short schedule that details the time at which shows maybe starting is automically displayed.
+2. As soon as the user enters their desired channel number, a small and short schedule that details the time at which shows are starting is automically displayed.
    It is accomplished with the help of procedures that store the schedules for each and every channel. There's one procedure for each channel's schedule available in the program.
    The reason why procedures were used was to increase the simplicity of the program as well as make it easier and more understandable. The schedule should look something like this:
     |----MONDAY, FEBRUARY 2, 2015----|
@@ -31,7 +31,7 @@ Here's a breakdown of how the program works:
     09:30 pm - The Asian Perspective
     10:00 pm - Byte This
 
-   This is a simple representation of a TV Guide program. I plan on making a more advanced one in the future.
+   This is more like a concept of a TV Guide program. It's an easy and simple representation of a TV guide's basic features. I'm currently working on a more advanced TV Guide which should be completed by the end of this month.
 
    
    
